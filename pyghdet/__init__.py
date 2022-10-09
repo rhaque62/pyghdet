@@ -1,4 +1,4 @@
-__version__ = "0.3.3"
+__version__ = "0.3.5"
 __author__  = "Rejuan Haque and Laura Kubatko"
 
 from pyghdet.pytorn import cct
